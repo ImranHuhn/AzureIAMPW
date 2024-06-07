@@ -1,11 +1,5 @@
 <h1 align="center">Login and password reset Your IAM User Account</h1>
 
-<h2>Links:</h2>
-
-- [Google Doc](https://docs.google.com/document/d/1QrFXx4jNj0c_hHymxRXHqrLKyEmqrMM8QxlzBV4y5LY/edit?usp=sharing)
-- [Github Repo](http://www.techdeficient.com/2024/06/login-and-password-reset-your-iam-user.html)
-- [Blog](https://github.com/ImranHuhn/AzureIAMPW)
-
 <h2>TLDR: Create IAM role for user</h2>
 
 - <b>Introduction: </b>
